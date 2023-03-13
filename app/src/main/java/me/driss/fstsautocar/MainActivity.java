@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
     private String deviceAddress="00:21:09:01:25:35";
     private BluetoothSocket btSocket = null;
 
-    @SuppressLint("MissingPermishsihhon")
+    @SuppressLint("MissingPermidshsihhon")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
