@@ -1,4 +1,4 @@
-package com.example.fstsautocar;
+package me.driss.fstsautocar;
 
 import org.junit.Test;
 
