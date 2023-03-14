@@ -18,10 +18,7 @@ This project involves building an automated watering vehicle using an Arduino bo
 <img src="https://user-images.githubusercontent.com/100499106/225136525-bbb78746-ef24-4741-8e8a-b20b03a754b9.jpg" alt="example" width="250"/>
 ## Demo
 https://github.com/Dris7/Arduino-Water-Tank-Car/issues/3#issue-1624304145
-<video width="320" height="240" controls>
-  <source src="https://github.com/Dris7/Arduino-Water-Tank-Car/issues/3#issue-1624304145" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 
 ## Project Objectives
