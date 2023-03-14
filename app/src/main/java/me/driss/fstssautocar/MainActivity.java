@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(mToolbar);
 
         String baseUrl = "http://192.168.4.1";
+
         Retrofit retrofit = new Retrofit.Builder().baseUrl(baseUrl).build();
         RetrofitApi retrofitApi = retrofit.create(RetrofitApi.class);
 
