@@ -12,9 +12,16 @@
 
 ## Project Description
 This project involves building an automated watering vehicle using an Arduino board to control various aspects of the vehicle. The vehicle is equipped with a water tank and sensors to detect soil moisture levels. When the soil is detected to be dry, the vehicle moves to the plant location and dispenses the necessary amount of water.
-
+## App Pic
 <img src="https://user-images.githubusercontent.com/100499106/225134934-4d243228-7cb3-4757-b4d9-16f05399565d.png" alt="example" width="250"/>
+## Car Pic 
 <img src="https://user-images.githubusercontent.com/100499106/225136525-bbb78746-ef24-4741-8e8a-b20b03a754b9.jpg" alt="example" width="250"/>
+## Demo
+https://github.com/Dris7/Arduino-Water-Tank-Car/issues/3#issue-1624304145
+<video width="320" height="240" controls>
+  <source src="https://github.com/Dris7/Arduino-Water-Tank-Car/issues/3#issue-1624304145" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Project Objectives
