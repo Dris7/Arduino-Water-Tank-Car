@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "me.driss.fstsautocar"
+        applicationId "me.driss.fstssautocar"
         minSdk 23
         targetSdk 32
         versionCode 1

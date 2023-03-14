@@ -1,4 +1,4 @@
-package me.driss.fstsautocar;
+package me.driss.fstssautocar;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;
