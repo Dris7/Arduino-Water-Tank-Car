@@ -27,7 +27,7 @@ https://play.google.com/store/apps/details?id=com.cars.fstsautocar
 
 ## Demo
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](https://github.com/Dris7/Arduino-Water-Tank-Car/issues/3#issue-1624304145)
+https://user-images.githubusercontent.com/100499106/225136598-a8f5d338-550e-4156-bca7-b3f18ee3a0d5.mp4
 
 
 ## Project Objectives
